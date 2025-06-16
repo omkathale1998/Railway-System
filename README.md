@@ -1,5 +1,5 @@
 # 🚆 Railway Reservation System – SQL Project
-![RS Banner]([https://github.com/Sayali821/Library-Management-System/blob/676f7401cf3077dc17e00eba45667fa5890aa6a5/Images/BannerLMS.jpeg](https://github.com/omkathale1998/Railway-System/blob/41eafe746f10e9662e3920bf74b05741ae8fe33b/RS%20Banner.jpeg))
+![RS_Banner][([https://github.com/Sayali821/Library-Management-System/blob/676f7401cf3077dc17e00eba45667fa5890aa6a5/Images/BannerLMS.jpeg](https://github.com/omkathale1998/Railway-System/blob/41eafe746f10e9662e3920bf74b05741ae8fe33b/RS%20Banner.jpeg))](https://github.com/omkathale1998/Railway-System/blob/ef010c4e8120f5a3223787c84d19ade6b3e7f368/RS_Banner.jpeg)
 This project simulates a *Railway Reservation System* using SQL. It includes designing a schema, inserting realistic data, and querying it at different levels to derive meaningful business insights.
 
 ---
